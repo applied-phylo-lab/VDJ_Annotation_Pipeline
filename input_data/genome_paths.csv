@@ -1,0 +1,4 @@
+Source,Genome
+Landfowl/IMGT_Chicken/bGRCg6a_pri,/local/storage/dhardesty/assemblies/VDJ_Annotation_Pipeline/example/Landfowl/IMGT_Chicken/bGRCg6a_pri/GCA_000002315.5_GRCg6a_genomic.fna
+Songbirds/RedWinged_Blackbird/bAgePho2_pri,/local/storage/dhardesty/assemblies/VDJ_Annotation_Pipeline/example/Songbirds/RedWinged_Blackbird/bAgePho2_pri/bAgePho2.pri.fasta
+Songbirds/RedWinged_Blackbird/bAgePho2_alt,/local/storage/dhardesty/assemblies/VDJ_Annotation_Pipeline/example/Songbirds/RedWinged_Blackbird/bAgePho2_alt/bAgePho2.alt.fasta
